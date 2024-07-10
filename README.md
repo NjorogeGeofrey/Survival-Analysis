@@ -1,9 +1,9 @@
-Medical Data Analysis - README
-Overview:
+
+# Overview:
 This analysis aims to explore various aspects of medical data, particularly focusing on demographic and clinical variables in relation to patient outcomes. The analysis is conducted using R programming language and leverages several statistical techniques, including Kruskal-Wallis tests, chi-squared tests, odds ratios, logistic regression, and survival analysis.
 
-Questions Explored:
-Question 1: Comparing Frequency Distributions
+# Questions Explored:
+## Question 1: Comparing Frequency Distributions
 Numeric Variables:
 Median and IQR for age and LOS (Length of Stay).
 Kruskal-Wallis tests for age and LOS by death status.
